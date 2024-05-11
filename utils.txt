@@ -1,0 +1,3 @@
+g++ 08_koch_curve.cpp -lglu32 -lglew32 -lfreeglut -lopengl32
+
+C:\msys64\mingw64\bin
